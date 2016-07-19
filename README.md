@@ -1,5 +1,6 @@
 # LaserTank
 
+```C
 /*******************************************************
  **             LaserTank ver 4.0                     **
  **               By Jim Kindley                      **
@@ -9,3 +10,4 @@
  **       Release version 2002 by Yves Maingoy        **
  **               ymaingoy@free.fr                    **
  *******************************************************/
+```
